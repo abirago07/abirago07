@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/abirago07/static/css/main.84c0bbad.css",
-    "main.js": "/abirago07/static/js/main.7c62bb0d.js",
-    "static/js/453.f703d704.chunk.js": "/abirago07/static/js/453.f703d704.chunk.js",
-    "index.html": "/abirago07/index.html",
-    "main.84c0bbad.css.map": "/abirago07/static/css/main.84c0bbad.css.map",
-    "main.7c62bb0d.js.map": "/abirago07/static/js/main.7c62bb0d.js.map",
-    "453.f703d704.chunk.js.map": "/abirago07/static/js/453.f703d704.chunk.js.map"
+    "main.css": "/medicheck/static/css/main.84c0bbad.css",
+    "main.js": "/medicheck/static/js/main.c91289a4.js",
+    "static/js/453.f703d704.chunk.js": "/medicheck/static/js/453.f703d704.chunk.js",
+    "index.html": "/medicheck/index.html",
+    "main.84c0bbad.css.map": "/medicheck/static/css/main.84c0bbad.css.map",
+    "main.c91289a4.js.map": "/medicheck/static/js/main.c91289a4.js.map",
+    "453.f703d704.chunk.js.map": "/medicheck/static/js/453.f703d704.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.84c0bbad.css",
-    "static/js/main.7c62bb0d.js"
+    "static/js/main.c91289a4.js"
   ]
 }
